@@ -145,8 +145,6 @@ Shashank Ashok Gadavi - [@Shashankgadavi](https://github.com/Shashankgadavi)
 
 Sagar V - [@sagubantii1911](https://github.com/sagubantii1911)
 
-Ipsita Sanyal
-
 Project Link: [https://github.com/vijethph/Insight](https://github.com/vijethph/Insight)
 
 ## Thank You!
