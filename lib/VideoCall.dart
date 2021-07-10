@@ -5,7 +5,7 @@ import 'package:agora_rtc_engine/rtc_remote_view.dart' as RtcRemoteView;
 import 'package:flutter/material.dart';
 
 /// Define App ID and Token
-const APP_ID = "APP_ID";
+const APP_ID = "AGORA_APP_ID";
 
 class VideoCall extends StatefulWidget {
   /// non-modifiable channel name of the page
